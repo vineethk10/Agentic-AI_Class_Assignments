@@ -1,4 +1,4 @@
-# Session 1: 04/06/2026
+# Session 2: 04/06/2026
 
 import random
 
