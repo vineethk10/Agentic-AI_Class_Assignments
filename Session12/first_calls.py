@@ -32,7 +32,6 @@ PRICING = {
 
 
 def normalize_model_name(model_name):
-    """Handle versioned model names like gpt-4.1-2025-04-14"""
     if model_name in PRICING:
         return model_name
 
